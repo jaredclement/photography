@@ -432,7 +432,8 @@ blockquote span{
 }
 .footer-container h2{
 	text-align:center;
-	position: relative;
+	position: absolute;
+	left:800px;
     color: var(--lightGreen);
     font-size: 36px;
     font-weight: 500;
