@@ -425,26 +425,6 @@ blockquote span{
     text-align: center;
 }
 
-.footer-container > div{
-    margin: 40px 600px;
-	
-
-}
-
-.footer-container p{
-	text-align:center;
-		position: relative;
-	left:450px;
-	top: 60px;
-    opacity: 0.7;
-}
-
-
-
-.footer > p{
-    text-align: center;
-    font-size: 14px;
-}
 
 /******************* end of footer ****************/
 
